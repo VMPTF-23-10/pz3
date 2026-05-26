@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Практична №3</string>
+    <string name="main_title">Практична №3: Android з Kotlin</string>
+    <string name="main_subtitle">Варіант 3 для кожного рівня</string>
+    <string name="level_1">Рівень 1: сума чисел</string>
+    <string name="level_2">Рівень 2: календар подій</string>
+    <string name="level_3">Рівень 3: Поле чудес</string>
+    <string name="level_4">Рівень 4: римські числа</string>
+
+    <string name="sum_title">Рівень 1: сума двох чисел</string>
+    <string name="sum_description">Введіть два числа та натисніть кнопку, щоб отримати суму.</string>
+    <string name="first_number_hint">Перше число</string>
+    <string name="second_number_hint">Друге число</string>
+    <string name="calculate_sum">Обчислити суму</string>
+    <string name="sum_placeholder">Результат з’явиться тут</string>
+    <string name="sum_result">Сума: %1$s</string>
+    <string name="sum_invalid_input">Перевірте правильність введених чисел.</string>
+    <string name="enter_valid_number">Введіть коректне число</string>
+
+    <string name="calendar_title">Рівень 2: календар подій</string>
+    <string name="calendar_description">Додавайте події та переглядайте їх за вибраною датою.</string>
+    <string name="calendar_selected_date">Вибрана дата: %1$s</string>
+    <string name="calendar_pick_date">Обрати дату</string>
+    <string name="calendar_event_hint">Назва або опис події</string>
+    <string name="calendar_add_event">Додати подію</string>
+    <string name="calendar_events_for_date">Події на вибрану дату</string>
+    <string name="calendar_no_events">Для цієї дати подій немає.</string>
+    <string name="calendar_empty_event">Введіть текст події</string>
+    <string name="calendar_event_saved">Подію збережено</string>
+
+    <string name="wheel_title">Рівень 3: гра «Поле чудес»</string>
+    <string name="wheel_description">Відгадуйте слово по одній літері. На гру дається 6 неправильних спроб.</string>
+    <string name="wheel_letter_hint">Літера</string>
+    <string name="wheel_guess">Перевірити літеру</string>
+    <string name="wheel_new_game">Нова гра</string>
+    <string name="wheel_alphabet_title">Українські літери</string>
+    <string name="wheel_status_start">Нова гра почалась. Введіть літеру.</string>
+    <string name="wheel_enter_one_letter">Введіть одну літеру</string>
+    <string name="wheel_enter_letter">Потрібно ввести літеру</string>
+    <string name="wheel_letter_repeated">Цю літеру вже використано</string>
+    <string name="wheel_good_guess">Є така літера.</string>
+    <string name="wheel_bad_guess">Такої літери немає.</string>
+    <string name="wheel_win">Вітаємо, слово відгадано!</string>
+    <string name="wheel_lose">Спроби закінчились. Слово: %1$s</string>
+    <string name="wheel_attempts">Залишилось спроб: %1$d</string>
+    <string name="wheel_used_empty">Використані літери: немає</string>
+    <string name="wheel_used_letters">Використані літери: %1$s</string>
+
+    <string name="roman_title">Рівень 4: римські числа</string>
+    <string name="roman_description">Введіть римське число від I до MMMCMXCIX та отримайте арабське значення.</string>
+    <string name="roman_hint">Наприклад: XIV</string>
+    <string name="roman_convert">Конвертувати</string>
+    <string name="roman_placeholder">Результат з’явиться тут</string>
+    <string name="roman_result">Арабське число: %1$d</string>
+    <string name="roman_invalid">Некоректне римське число</string>
+</resources>
